@@ -7,7 +7,5 @@ node_js:
   - "iojs"
 script:
   - npm test
-env:
-  global:
-    - clientId: process.env.clientId
-    - clientSecret: process.env.clientSecret 
+
+secure: "nBFgc6r70YXr7dElmWZeU701hMrWr8F3b9kVGXITFWGQ6JquXg07Rq9fN/gcQ04/BcIG2XD5Qg/12Zd/dCPY+Yv7f8813ZfYEQFztPaih35cv6seRBQmWWppUVYsWJ6geNv/Z+y1QO/4Da5UjpFV82U2fU4xAPrlfMEJgmM+9B9YJF0piMX2YbNe6ErQYsMjh6VmlGlgkFvBfpHTMOfCzIqk1kOT5Seh2EE4vsJ9eRee6qiJymvBaUKZegVOe0/vY8CBNksVw1VPGRnvZitihgCtS8ixPux9GWjp+q60OxLFn7sKSanPAZsjrTG+HygvOj/VsQkCiLWpxuQt01BZvAFs3enkonziy/PeEm2NNSxyw2bVaLb6N+InQAXj4m5wBq3ol5jFlGLAod9F2eUK43HQ/95ZiBu7n3jXjjZzV6/YnNA4Zd3vrCD/OuTAnsaChUQQPlDL33nL9/1GyYAPiee1dPd9DWAiNtZqMIAZbrSYGEbgIxwJyAa37jJpPPjRUp7h7giiqhjVKBr4yyWXc20+M5RqFg2163Kc9PvOrtNdb1GNnObTezgtLBreUIe66J6aPB5YC4Xv1s4sF1YIjC1l725WVWmY8MiTvjUfZ/PbdxhmpzVbfHzZ/lNEZz2HpvSLoWEA7XUTFatg8Dnw09d+DTb1k3SgxiYULXwnFNY="
