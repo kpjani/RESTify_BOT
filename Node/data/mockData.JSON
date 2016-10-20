@@ -1,0 +1,9 @@
+{
+	"Tables": ["battles",  "characters",  "conflicts",  "creatures", "droids", "duels", "governments", "planets", "species", "starships", "technology", "vehicles", "weapons"],
+	"HTTPVerbs" : ["POST", "GET", "DELETE", "PUT"],
+	"Endpoints" : ["GET http://StarwarsFan.com/characters/", "POST http://StarwarsFan.com/planets", "GET http://StarwarsFan.com/starships/"],
+	"AuthorizedUsers" : ["Gautam"],
+	"Quota" : ["100/DAY","10000/DAY","100000/DAY"]
+}
+
+
