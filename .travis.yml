@@ -7,3 +7,7 @@ node_js:
   - "iojs"
 script:
   - npm test
+env:
+  global:
+    - clientId: process.env.clientId
+    - clientSecret: process.env.clientSecret 
