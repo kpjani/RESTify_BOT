@@ -35,8 +35,8 @@ var controller = Botkit.slackbot({
     // interactive_replies: true, // tells botkit to send button clicks into conversations
     json_file_store: './db_slackbutton_bot/',
 }).configureSlackApp({
-    clientId: "XXXXXXXX"//process.env.clientId,
-    clientSecret: "XXXXXXXX"//process.env.clientSecret,
+    clientId: "75395947618.92031652662"//process.env.clientId,
+    clientSecret: "414406139ae2b29ea137d118fbad360f"//process.env.clientSecret,
     scopes: ['bot'],
 });
 
