@@ -3,7 +3,7 @@ node_js:
   - "6"
   - "6.1"
   - "5.11"
-  - "0.6"
+  - "3.10.3"
   - "iojs"
 script:
   - npm install -g npm
