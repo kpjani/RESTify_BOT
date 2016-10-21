@@ -5,7 +5,7 @@
   "main": "lib/Botkit.js",
   "dependencies": {
     "async": "^1.0.0-rc.5",
-    "back": "^1.0.1",
+    "back": "^1.0.0",
     "body-parser": "^1.14.2",
     "botbuilder": "^3.2.3",
     "command-line-args": "^3.0.0",
