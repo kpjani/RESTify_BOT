@@ -29,7 +29,7 @@
     "winston": "^2.1.1"
   },
   "scripts": {
-    "test": "npm test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
