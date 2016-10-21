@@ -3,8 +3,9 @@ node_js:
   - "6"
   - "6.1"
   - "5.11"
-  - "3.10.3"
+  - "0.6"
   - "iojs"
 script:
   - npm install -g npm
   - npm test
+before_install: if [[ `npm -v` != 3* ]]; then npm i -g npm@3; fi
